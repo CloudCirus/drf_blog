@@ -1,0 +1,7 @@
+.env
+.ginignore
+api/db.sqlite3
+api/api/__pycache__
+api/api/private_settings.py
+api/core/__pycache__
+api/core/migrations/__pycache__
